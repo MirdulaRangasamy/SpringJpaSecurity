@@ -1,0 +1,2 @@
+# SpringJpaSecurity
+JPA Security
